@@ -1,7 +1,7 @@
 # plannn
 
-maak een app
-maak een github account
-maak een vervel account
-link alle
-hapy 
+maak een app -- DONE
+maak een github account -- DONE
+maak een vervel account -- DONE
+link alle -- DONE
+hapy  -- DONE
