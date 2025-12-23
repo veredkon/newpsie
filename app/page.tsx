@@ -108,12 +108,12 @@ export default function Home() {
               <svg viewBox="0 0 200 260" className="h-full w-full">
                 <defs>
                   <linearGradient id="treeGradient1" x1="0" x2="0" y1="0" y2="1">
-                    <stop offset="0%" stopColor="#0ea463" />
-                    <stop offset="100%" stopColor="#065f46" />
+                    <stop offset="0%" stopColor="#38bdf8" />
+                    <stop offset="100%" stopColor="#1d4ed8" />
                   </linearGradient>
                   <linearGradient id="treeGradient2" x1="0" x2="0" y1="0" y2="1">
-                    <stop offset="0%" stopColor="#059669" />
-                    <stop offset="100%" stopColor="#064e3b" />
+                    <stop offset="0%" stopColor="#2563eb" />
+                    <stop offset="100%" stopColor="#0f172a" />
                   </linearGradient>
                   <linearGradient id="trunkGradient" x1="0" x2="0" y1="0" y2="1">
                     <stop offset="0%" stopColor="#8b5a2b" />
